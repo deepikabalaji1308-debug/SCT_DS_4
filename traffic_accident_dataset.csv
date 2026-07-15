@@ -1,0 +1,1001 @@
+Accident_ID,Weather_Condition,Road_Condition,Time_of_Day,Severity,Start_Lat,Start_Lng
+1,Clear,Dry,Evening,2,28.223211,77.736471
+2,Snow,Dry,Night,1,28.029797,77.218638
+3,Snow,Dry,Afternoon,4,28.220441,77.589266
+4,Clear,Wet,Night,3,28.277871,77.215314
+5,Fog,Dry,Morning,4,28.096716,77.847494
+6,Snow,Under Construction,Morning,4,28.536228,77.973116
+7,Cloudy,Dry,Evening,3,28.577352,77.704572
+8,Clear,Wet,Evening,1,28.855318,77.866484
+9,Cloudy,Under Construction,Night,3,28.162654,77.355271
+10,Fog,Dry,Afternoon,2,28.163402,77.379455
+11,Snow,Wet,Evening,1,28.229048,77.0321
+12,Fog,Slippery,Evening,1,28.210983,77.94291
+13,Fog,Wet,Night,4,28.884683,77.642852
+14,Rain,Under Construction,Afternoon,2,28.744989,77.538977
+15,Snow,Slippery,Night,3,28.219321,77.997538
+16,Snow,Slippery,Morning,1,28.861103,77.152841
+17,Rain,Slippery,Morning,4,28.381619,77.996121
+18,Snow,Under Construction,Morning,1,28.68171,77.53697
+19,Fog,Under Construction,Morning,3,28.434765,77.453724
+20,Fog,Wet,Morning,3,28.841669,77.507663
+21,Rain,Wet,Evening,2,28.539379,77.778626
+22,Snow,Dry,Evening,4,28.019477,77.929099
+23,Fog,Wet,Morning,2,28.87801,77.946949
+24,Clear,Slippery,Morning,2,28.128391,77.475282
+25,Snow,Wet,Evening,4,28.964363,77.928913
+26,Rain,Under Construction,Night,3,28.4381,77.517576
+27,Clear,Wet,Afternoon,1,28.338086,77.588309
+28,Rain,Wet,Morning,1,28.707841,77.058874
+29,Clear,Dry,Evening,1,28.514156,77.278477
+30,Cloudy,Wet,Afternoon,4,28.242997,77.472973
+31,Cloudy,Wet,Morning,1,28.658983,77.354298
+32,Cloudy,Slippery,Morning,1,28.060613,77.728214
+33,Clear,Wet,Afternoon,2,28.536286,77.140182
+34,Rain,Under Construction,Night,2,28.874486,77.075385
+35,Snow,Dry,Morning,1,28.968996,77.926367
+36,Rain,Wet,Night,4,28.481358,77.86465
+37,Clear,Wet,Night,1,28.985309,77.265203
+38,Cloudy,Under Construction,Night,4,28.154797,77.296708
+39,Clear,Dry,Evening,1,28.050142,77.476789
+40,Snow,Wet,Morning,1,28.851343,77.068521
+41,Clear,Wet,Night,1,28.941596,77.569675
+42,Snow,Dry,Morning,4,28.657373,77.565227
+43,Fog,Under Construction,Afternoon,3,28.238686,77.395786
+44,Fog,Slippery,Evening,1,28.009315,77.621159
+45,Snow,Dry,Morning,2,28.505885,77.132457
+46,Fog,Dry,Afternoon,3,28.284987,77.438185
+47,Snow,Under Construction,Morning,3,28.931756,77.103587
+48,Rain,Under Construction,Morning,1,28.742417,77.155448
+49,Fog,Wet,Evening,2,28.687497,77.852913
+50,Snow,Slippery,Evening,1,28.092298,77.423576
+51,Fog,Dry,Morning,3,28.771119,77.637113
+52,Fog,Wet,Night,4,28.560907,77.111874
+53,Rain,Dry,Evening,2,28.429787,77.041829
+54,Fog,Dry,Evening,2,28.682067,77.666933
+55,Fog,Slippery,Afternoon,2,28.864606,77.976206
+56,Rain,Slippery,Morning,2,28.736564,77.332185
+57,Cloudy,Wet,Evening,2,28.787375,77.108096
+58,Clear,Slippery,Afternoon,2,28.816587,77.460303
+59,Fog,Wet,Afternoon,1,28.660033,77.398466
+60,Fog,Dry,Evening,3,28.641482,77.399678
+61,Snow,Under Construction,Morning,1,28.877038,77.261215
+62,Snow,Under Construction,Morning,1,28.596571,77.345687
+63,Fog,Slippery,Morning,4,28.899505,77.190079
+64,Clear,Slippery,Morning,2,28.364221,77.069974
+65,Fog,Under Construction,Morning,3,28.507123,77.666893
+66,Fog,Slippery,Evening,2,28.19184,77.664929
+67,Cloudy,Wet,Evening,4,28.547937,77.000406
+68,Fog,Wet,Night,3,28.464988,77.44216
+69,Rain,Slippery,Afternoon,1,28.283786,77.663854
+70,Snow,Under Construction,Morning,2,28.672796,77.224641
+71,Rain,Wet,Morning,1,28.244843,77.475136
+72,Clear,Slippery,Night,2,28.718346,77.383978
+73,Cloudy,Wet,Afternoon,1,28.89266,77.860441
+74,Clear,Slippery,Afternoon,2,28.80411,77.695912
+75,Cloudy,Dry,Afternoon,1,28.456462,77.801417
+76,Snow,Under Construction,Night,4,28.830569,77.547872
+77,Rain,Slippery,Night,3,28.751777,77.839863
+78,Fog,Slippery,Afternoon,3,28.439873,77.713545
+79,Rain,Under Construction,Evening,3,28.893027,77.080578
+80,Rain,Wet,Night,2,28.706419,77.064229
+81,Cloudy,Under Construction,Night,4,28.062266,77.832891
+82,Cloudy,Dry,Night,4,28.005896,77.351759
+83,Cloudy,Slippery,Afternoon,4,28.219422,77.435836
+84,Clear,Slippery,Evening,4,28.724181,77.840506
+85,Rain,Dry,Night,1,28.083947,77.428613
+86,Cloudy,Wet,Morning,3,28.379104,77.21166
+87,Fog,Under Construction,Night,3,28.75201,77.831924
+88,Fog,Dry,Night,1,28.749024,77.052086
+89,Fog,Wet,Morning,1,28.754233,77.949612
+90,Rain,Dry,Afternoon,2,28.126221,77.669459
+91,Snow,Wet,Night,3,28.766898,77.167789
+92,Snow,Dry,Afternoon,3,28.108099,77.025678
+93,Fog,Slippery,Night,2,28.075996,77.690614
+94,Rain,Dry,Evening,1,28.796227,77.565933
+95,Clear,Under Construction,Night,3,28.068957,77.647543
+96,Clear,Slippery,Night,1,28.433523,77.362188
+97,Cloudy,Wet,Night,2,28.733795,77.965474
+98,Fog,Slippery,Night,4,28.825735,77.592475
+99,Fog,Wet,Morning,3,28.881631,77.243863
+100,Cloudy,Slippery,Evening,1,28.494307,77.325014
+101,Cloudy,Wet,Evening,3,28.340339,77.88032
+102,Fog,Dry,Afternoon,1,28.241356,77.406428
+103,Snow,Wet,Night,4,28.448175,77.017243
+104,Fog,Wet,Night,2,28.306206,77.581556
+105,Cloudy,Under Construction,Night,3,28.351811,77.453745
+106,Fog,Under Construction,Afternoon,1,28.721284,77.315548
+107,Snow,Wet,Afternoon,2,28.738605,77.2765
+108,Snow,Under Construction,Morning,2,28.296246,77.360881
+109,Fog,Dry,Afternoon,3,28.045516,77.054526
+110,Fog,Wet,Night,1,28.87272,77.574064
+111,Cloudy,Slippery,Night,3,28.184364,77.051377
+112,Cloudy,Dry,Morning,4,28.491747,77.577021
+113,Clear,Wet,Afternoon,3,28.085181,77.248191
+114,Snow,Slippery,Afternoon,4,28.450514,77.442721
+115,Snow,Slippery,Evening,1,28.609631,77.740089
+116,Rain,Wet,Evening,1,28.157057,77.173814
+117,Clear,Wet,Morning,4,28.450504,77.593811
+118,Fog,Dry,Afternoon,3,28.706956,77.702988
+119,Cloudy,Dry,Afternoon,3,28.787828,77.625058
+120,Rain,Slippery,Morning,2,28.647635,77.908411
+121,Rain,Dry,Morning,2,28.792629,77.595044
+122,Snow,Under Construction,Night,1,28.468698,77.304091
+123,Cloudy,Under Construction,Night,4,28.080442,77.039861
+124,Cloudy,Under Construction,Evening,1,28.091327,77.961911
+125,Snow,Dry,Evening,1,28.763109,77.175191
+126,Snow,Slippery,Evening,2,28.996945,77.435885
+127,Cloudy,Dry,Night,3,28.408348,77.321058
+128,Clear,Wet,Evening,4,28.693674,77.288218
+129,Cloudy,Dry,Night,1,28.314517,77.323274
+130,Cloudy,Dry,Night,4,28.054204,77.518439
+131,Snow,Slippery,Night,1,28.203558,77.54922
+132,Fog,Slippery,Night,1,28.028869,77.630022
+133,Rain,Wet,Evening,1,28.552251,77.093209
+134,Clear,Slippery,Morning,2,28.498376,77.716603
+135,Snow,Under Construction,Night,4,28.980245,77.243731
+136,Snow,Wet,Night,2,28.921868,77.508241
+137,Rain,Dry,Evening,4,28.339875,77.787717
+138,Fog,Dry,Evening,3,28.837476,77.579923
+139,Cloudy,Wet,Night,4,28.345124,77.551917
+140,Snow,Slippery,Night,3,28.869602,77.980775
+141,Rain,Slippery,Afternoon,4,28.043647,77.744705
+142,Cloudy,Slippery,Afternoon,4,28.964824,77.126246
+143,Snow,Under Construction,Morning,4,28.099712,77.910442
+144,Clear,Wet,Night,2,28.074828,77.781525
+145,Fog,Under Construction,Night,1,28.851765,77.852341
+146,Snow,Slippery,Evening,4,28.872383,77.035899
+147,Clear,Wet,Evening,2,28.746766,77.433971
+148,Clear,Dry,Night,2,28.694001,77.903424
+149,Clear,Under Construction,Morning,3,28.358463,77.430687
+150,Rain,Slippery,Afternoon,2,28.175069,77.609492
+151,Cloudy,Wet,Night,2,28.232188,77.637905
+152,Cloudy,Under Construction,Morning,4,28.901209,77.677611
+153,Rain,Dry,Night,3,28.987652,77.299154
+154,Cloudy,Under Construction,Night,3,28.199217,77.384693
+155,Cloudy,Dry,Afternoon,4,28.571923,77.574812
+156,Fog,Dry,Night,3,28.008098,77.865067
+157,Clear,Slippery,Evening,2,28.607065,77.352321
+158,Rain,Under Construction,Afternoon,1,28.903404,77.646341
+159,Fog,Slippery,Morning,3,28.73236,77.090133
+160,Fog,Under Construction,Night,2,28.200795,77.786513
+161,Fog,Under Construction,Afternoon,3,28.914049,77.944188
+162,Fog,Under Construction,Morning,4,28.962893,77.140757
+163,Rain,Slippery,Evening,1,28.790682,77.013919
+164,Snow,Dry,Night,3,28.672828,77.672341
+165,Snow,Slippery,Evening,1,28.674837,77.471477
+166,Snow,Under Construction,Afternoon,1,28.635404,77.464268
+167,Fog,Slippery,Morning,2,28.045347,77.037212
+168,Cloudy,Dry,Morning,2,28.887259,77.135664
+169,Cloudy,Under Construction,Night,2,28.885414,77.654922
+170,Cloudy,Slippery,Evening,1,28.690281,77.21727
+171,Cloudy,Wet,Evening,1,28.980928,77.367335
+172,Fog,Dry,Night,3,28.189809,77.12216
+173,Cloudy,Dry,Afternoon,1,28.050579,77.333509
+174,Rain,Wet,Morning,2,28.586383,77.813053
+175,Rain,Under Construction,Afternoon,1,28.277275,77.984028
+176,Rain,Under Construction,Afternoon,1,28.661058,77.02578
+177,Clear,Under Construction,Afternoon,3,28.015781,77.265368
+178,Rain,Slippery,Morning,1,28.476246,77.778017
+179,Snow,Dry,Night,2,28.945416,77.043365
+180,Snow,Under Construction,Night,1,28.060825,77.478982
+181,Cloudy,Slippery,Morning,4,28.712401,77.443562
+182,Clear,Under Construction,Afternoon,1,28.126192,77.624317
+183,Snow,Under Construction,Night,3,28.453715,77.605427
+184,Clear,Dry,Afternoon,4,28.451555,77.228494
+185,Fog,Slippery,Night,4,28.729613,77.312548
+186,Fog,Under Construction,Evening,2,28.686821,77.474268
+187,Clear,Dry,Morning,4,28.096564,77.738796
+188,Rain,Dry,Evening,1,28.410809,77.873607
+189,Cloudy,Dry,Evening,3,28.351646,77.577919
+190,Rain,Wet,Night,2,28.847275,77.350114
+191,Snow,Under Construction,Morning,3,28.5741,77.807221
+192,Snow,Dry,Evening,1,28.180416,77.702699
+193,Fog,Under Construction,Evening,1,28.181406,77.143251
+194,Cloudy,Dry,Afternoon,1,28.091758,77.530483
+195,Cloudy,Slippery,Night,3,28.157409,77.311637
+196,Fog,Dry,Morning,2,28.15741,77.617838
+197,Clear,Under Construction,Night,4,28.485662,77.442044
+198,Fog,Wet,Morning,3,28.429914,77.283246
+199,Snow,Slippery,Evening,1,28.220518,77.984446
+200,Clear,Dry,Afternoon,3,28.945324,77.76735
+201,Fog,Under Construction,Evening,1,28.00773,77.747014
+202,Rain,Wet,Night,2,28.500262,77.833354
+203,Fog,Dry,Night,1,28.43622,77.459754
+204,Clear,Under Construction,Night,4,28.709499,77.417694
+205,Clear,Slippery,Morning,3,28.171873,77.947614
+206,Cloudy,Under Construction,Morning,4,28.844484,77.243316
+207,Snow,Slippery,Morning,4,28.870524,77.745805
+208,Rain,Under Construction,Afternoon,1,28.510483,77.114027
+209,Snow,Wet,Evening,3,28.727379,77.818949
+210,Rain,Wet,Morning,2,28.255968,77.173499
+211,Rain,Dry,Afternoon,4,28.463953,77.563735
+212,Snow,Slippery,Evening,3,28.150957,77.068286
+213,Cloudy,Under Construction,Evening,1,28.351942,77.074191
+214,Cloudy,Slippery,Morning,1,28.368738,77.287077
+215,Clear,Slippery,Night,1,28.449734,77.809816
+216,Rain,Under Construction,Night,2,28.957722,77.450523
+217,Fog,Dry,Afternoon,1,28.247744,77.437758
+218,Cloudy,Wet,Evening,3,28.917937,77.387417
+219,Fog,Dry,Evening,1,28.329691,77.557963
+220,Cloudy,Under Construction,Evening,2,28.333362,77.58274
+221,Rain,Under Construction,Evening,4,28.128952,77.708834
+222,Clear,Under Construction,Night,3,28.813185,77.670116
+223,Snow,Dry,Night,3,28.018231,77.308866
+224,Rain,Under Construction,Night,2,28.226543,77.137565
+225,Clear,Under Construction,Morning,1,28.661929,77.876393
+226,Snow,Wet,Night,2,28.162247,77.831345
+227,Snow,Wet,Night,1,28.410859,77.676363
+228,Rain,Slippery,Evening,4,28.234003,77.239168
+229,Cloudy,Wet,Evening,4,28.46168,77.281772
+230,Cloudy,Slippery,Afternoon,2,28.801259,77.138399
+231,Fog,Dry,Night,3,28.554541,77.10259
+232,Snow,Dry,Evening,1,28.763117,77.272791
+233,Snow,Wet,Night,1,28.946413,77.222038
+234,Cloudy,Under Construction,Morning,4,28.053257,77.502007
+235,Rain,Slippery,Morning,3,28.224539,77.318685
+236,Clear,Under Construction,Afternoon,2,28.038303,77.917396
+237,Cloudy,Wet,Night,4,28.615348,77.905857
+238,Clear,Under Construction,Afternoon,2,28.548804,77.727235
+239,Snow,Slippery,Morning,3,28.23764,77.121848
+240,Rain,Slippery,Night,1,28.110858,77.905147
+241,Snow,Dry,Afternoon,2,28.291272,77.001564
+242,Fog,Wet,Night,2,28.664371,77.085614
+243,Fog,Dry,Morning,4,28.873331,77.043534
+244,Cloudy,Under Construction,Evening,1,28.357094,77.06756
+245,Rain,Dry,Evening,2,28.044336,77.546014
+246,Rain,Slippery,Night,2,28.811498,77.063101
+247,Cloudy,Dry,Evening,2,28.043806,77.19947
+248,Clear,Under Construction,Evening,4,28.989123,77.543031
+249,Fog,Dry,Afternoon,3,28.356974,77.780842
+250,Fog,Under Construction,Morning,3,28.436951,77.400022
+251,Cloudy,Slippery,Evening,2,28.496203,77.497523
+252,Snow,Under Construction,Morning,4,28.078927,77.602453
+253,Rain,Under Construction,Evening,1,28.080069,77.660919
+254,Fog,Slippery,Night,2,28.689765,77.351547
+255,Clear,Under Construction,Night,3,28.639469,77.791478
+256,Clear,Dry,Night,3,28.513086,77.749898
+257,Rain,Dry,Afternoon,4,28.034799,77.067233
+258,Fog,Under Construction,Night,1,28.605095,77.679062
+259,Fog,Under Construction,Night,1,28.573922,77.52946
+260,Cloudy,Under Construction,Evening,2,28.96052,77.025913
+261,Rain,Slippery,Night,1,28.261777,77.26029
+262,Cloudy,Wet,Evening,4,28.200178,77.135728
+263,Clear,Slippery,Afternoon,4,28.997262,77.810513
+264,Fog,Under Construction,Morning,3,28.891332,77.851362
+265,Rain,Under Construction,Afternoon,1,28.985133,77.792066
+266,Rain,Slippery,Morning,3,28.554021,77.368911
+267,Snow,Wet,Morning,1,28.309291,77.999595
+268,Cloudy,Slippery,Night,1,28.125327,77.317028
+269,Clear,Slippery,Night,3,28.128335,77.829054
+270,Snow,Wet,Afternoon,4,28.502864,77.868212
+271,Clear,Wet,Evening,2,28.161967,77.934738
+272,Rain,Under Construction,Evening,1,28.250605,77.635057
+273,Snow,Under Construction,Afternoon,3,28.614428,77.093428
+274,Rain,Wet,Afternoon,3,28.84253,77.563618
+275,Clear,Dry,Morning,3,28.65113,77.766959
+276,Cloudy,Dry,Night,3,28.641907,77.302094
+277,Rain,Slippery,Evening,4,28.072973,77.059913
+278,Cloudy,Slippery,Night,4,28.204023,77.60666
+279,Fog,Under Construction,Evening,4,28.130766,77.37054
+280,Snow,Dry,Evening,2,28.466473,77.267472
+281,Rain,Wet,Morning,1,28.290212,77.38415
+282,Snow,Slippery,Afternoon,2,28.813478,77.933752
+283,Fog,Wet,Afternoon,4,28.995969,77.466815
+284,Fog,Slippery,Morning,1,28.945233,77.505444
+285,Rain,Wet,Evening,1,28.05054,77.494894
+286,Cloudy,Under Construction,Morning,1,28.430928,77.882456
+287,Fog,Slippery,Evening,1,28.400582,77.570282
+288,Rain,Under Construction,Evening,1,28.386349,77.450354
+289,Snow,Under Construction,Morning,2,28.975083,77.393904
+290,Fog,Under Construction,Afternoon,2,28.602463,77.401387
+291,Clear,Dry,Morning,2,28.713592,77.803966
+292,Snow,Slippery,Afternoon,2,28.327966,77.613068
+293,Rain,Slippery,Evening,3,28.507315,77.509714
+294,Cloudy,Under Construction,Night,1,28.368358,77.673806
+295,Cloudy,Under Construction,Morning,4,28.26553,77.655591
+296,Snow,Wet,Morning,4,28.170512,77.629025
+297,Snow,Slippery,Afternoon,2,28.031571,77.948205
+298,Clear,Wet,Morning,4,28.313692,77.151431
+299,Rain,Slippery,Night,1,28.705775,77.518683
+300,Snow,Under Construction,Night,4,28.313753,77.173182
+301,Snow,Under Construction,Evening,3,28.610077,77.192264
+302,Rain,Under Construction,Evening,2,28.941486,77.98226
+303,Fog,Wet,Night,3,28.479803,77.560488
+304,Fog,Under Construction,Morning,4,28.89576,77.394532
+305,Fog,Wet,Evening,1,28.28763,77.714141
+306,Fog,Slippery,Evening,4,28.213987,77.827952
+307,Fog,Under Construction,Afternoon,1,28.615677,77.58683
+308,Rain,Dry,Afternoon,2,28.052491,77.413301
+309,Cloudy,Dry,Afternoon,1,28.964519,77.977911
+310,Rain,Slippery,Night,4,28.650539,77.755911
+311,Fog,Under Construction,Evening,1,28.907937,77.089461
+312,Snow,Wet,Morning,2,28.417885,77.837605
+313,Clear,Slippery,Night,2,28.936609,77.962131
+314,Fog,Dry,Morning,3,28.567962,77.107301
+315,Fog,Under Construction,Night,4,28.88926,77.1342
+316,Snow,Slippery,Evening,2,28.808814,77.330684
+317,Cloudy,Under Construction,Afternoon,1,28.736618,77.790768
+318,Snow,Wet,Afternoon,4,28.82699,77.515281
+319,Clear,Slippery,Morning,2,28.981685,77.477454
+320,Rain,Dry,Evening,4,28.235521,77.753757
+321,Fog,Under Construction,Morning,3,28.653683,77.692769
+322,Clear,Dry,Night,3,28.159717,77.686074
+323,Fog,Dry,Evening,3,28.614625,77.219129
+324,Rain,Slippery,Afternoon,4,28.747735,77.605739
+325,Cloudy,Slippery,Afternoon,2,28.680342,77.595814
+326,Clear,Slippery,Evening,1,28.917245,77.112209
+327,Snow,Wet,Afternoon,2,28.328118,77.520342
+328,Clear,Wet,Night,1,28.898889,77.445483
+329,Clear,Slippery,Afternoon,4,28.456798,77.057737
+330,Cloudy,Under Construction,Morning,4,28.254457,77.003015
+331,Rain,Dry,Morning,4,28.344529,77.06376
+332,Clear,Dry,Night,1,28.287091,77.179981
+333,Rain,Slippery,Evening,4,28.448537,77.917115
+334,Cloudy,Slippery,Morning,2,28.653534,77.34777
+335,Rain,Slippery,Afternoon,2,28.834822,77.756179
+336,Fog,Slippery,Night,4,28.82336,77.247512
+337,Fog,Wet,Evening,2,28.93741,77.725024
+338,Clear,Dry,Night,1,28.240666,77.067291
+339,Snow,Dry,Night,1,28.244734,77.044237
+340,Cloudy,Wet,Afternoon,1,28.140136,77.993483
+341,Rain,Under Construction,Evening,2,28.301764,77.14326
+342,Snow,Wet,Night,3,28.275154,77.556718
+343,Snow,Wet,Night,4,28.046884,77.344415
+344,Cloudy,Under Construction,Night,4,28.149218,77.37646
+345,Snow,Slippery,Afternoon,2,28.300736,77.707577
+346,Cloudy,Dry,Night,4,28.557287,77.134093
+347,Rain,Under Construction,Afternoon,3,28.646706,77.922226
+348,Fog,Dry,Afternoon,1,28.268462,77.673672
+349,Snow,Dry,Morning,2,28.804651,77.587584
+350,Snow,Wet,Night,2,28.869474,77.332964
+351,Clear,Wet,Afternoon,1,28.746879,77.754331
+352,Rain,Wet,Night,2,28.552079,77.775514
+353,Cloudy,Slippery,Evening,3,28.261562,77.512817
+354,Cloudy,Slippery,Morning,4,28.761629,77.320233
+355,Rain,Under Construction,Evening,4,28.045715,77.864085
+356,Rain,Dry,Evening,4,28.295192,77.196192
+357,Rain,Slippery,Afternoon,4,28.550643,77.943465
+358,Fog,Under Construction,Night,4,28.460829,77.732772
+359,Fog,Wet,Afternoon,4,28.184048,77.889365
+360,Clear,Dry,Morning,1,28.764339,77.412392
+361,Rain,Dry,Afternoon,1,28.21872,77.45601
+362,Clear,Slippery,Night,1,28.006612,77.551644
+363,Clear,Dry,Evening,3,28.017143,77.813157
+364,Cloudy,Wet,Morning,1,28.524385,77.240969
+365,Snow,Under Construction,Evening,3,28.794936,77.079019
+366,Cloudy,Slippery,Afternoon,2,28.299975,77.828062
+367,Clear,Dry,Morning,4,28.379264,77.552701
+368,Clear,Dry,Afternoon,1,28.499858,77.43391
+369,Fog,Dry,Morning,2,28.211417,77.868117
+370,Snow,Slippery,Evening,1,28.924159,77.684429
+371,Fog,Dry,Afternoon,3,28.015658,77.207158
+372,Rain,Slippery,Morning,3,28.16245,77.240472
+373,Cloudy,Under Construction,Night,2,28.790498,77.689311
+374,Clear,Under Construction,Morning,1,28.437088,77.838675
+375,Fog,Slippery,Evening,1,28.634123,77.783548
+376,Cloudy,Slippery,Afternoon,3,28.553038,77.375427
+377,Rain,Slippery,Morning,3,28.798055,77.713109
+378,Clear,Under Construction,Afternoon,4,28.711677,77.633901
+379,Cloudy,Under Construction,Evening,1,28.09152,77.94296
+380,Cloudy,Under Construction,Evening,1,28.132507,77.187392
+381,Cloudy,Slippery,Morning,1,28.089619,77.55422
+382,Snow,Under Construction,Night,1,28.291847,77.3878
+383,Clear,Wet,Afternoon,4,28.169502,77.268919
+384,Fog,Slippery,Afternoon,1,28.167207,77.275962
+385,Fog,Slippery,Morning,3,28.2517,77.24659
+386,Cloudy,Wet,Night,1,28.13549,77.006767
+387,Cloudy,Under Construction,Night,3,28.440223,77.430616
+388,Snow,Wet,Evening,3,28.603211,77.695292
+389,Cloudy,Under Construction,Afternoon,4,28.968725,77.291448
+390,Cloudy,Wet,Evening,4,28.2803,77.785867
+391,Fog,Dry,Afternoon,2,28.681713,77.550099
+392,Cloudy,Wet,Night,3,28.831282,77.069159
+393,Cloudy,Slippery,Afternoon,3,28.242021,77.658663
+394,Cloudy,Slippery,Morning,4,28.990701,77.479235
+395,Cloudy,Slippery,Morning,3,28.701634,77.812297
+396,Snow,Dry,Morning,2,28.657602,77.355009
+397,Snow,Dry,Night,3,28.965717,77.430456
+398,Clear,Dry,Evening,2,28.510676,77.518798
+399,Snow,Wet,Night,3,28.391134,77.772342
+400,Snow,Wet,Evening,1,28.482771,77.295432
+401,Clear,Dry,Afternoon,3,28.31189,77.455333
+402,Rain,Slippery,Evening,4,28.097623,77.721994
+403,Cloudy,Under Construction,Morning,3,28.044683,77.710779
+404,Clear,Under Construction,Morning,2,28.929922,77.740489
+405,Snow,Wet,Afternoon,3,28.559849,77.958463
+406,Rain,Slippery,Afternoon,2,28.640479,77.432134
+407,Clear,Wet,Night,4,28.388836,77.704736
+408,Rain,Under Construction,Morning,1,28.799502,77.536889
+409,Fog,Under Construction,Afternoon,4,28.113955,77.670701
+410,Cloudy,Under Construction,Night,4,28.587005,77.347925
+411,Cloudy,Wet,Evening,1,28.67211,77.313186
+412,Rain,Under Construction,Morning,2,28.373306,77.141359
+413,Cloudy,Slippery,Afternoon,4,28.423039,77.48667
+414,Snow,Wet,Afternoon,4,28.288835,77.187099
+415,Cloudy,Dry,Evening,1,28.484609,77.195128
+416,Cloudy,Slippery,Night,4,28.41563,77.839892
+417,Cloudy,Wet,Morning,1,28.795881,77.22053
+418,Clear,Under Construction,Afternoon,3,28.168209,77.457321
+419,Cloudy,Dry,Morning,3,28.775113,77.823283
+420,Fog,Dry,Night,2,28.989776,77.102416
+421,Rain,Under Construction,Morning,4,28.262815,77.8622
+422,Clear,Slippery,Morning,2,28.209878,77.737613
+423,Fog,Slippery,Afternoon,2,28.784849,77.81353
+424,Clear,Under Construction,Evening,2,28.323654,77.704054
+425,Fog,Under Construction,Morning,2,28.962772,77.785691
+426,Clear,Under Construction,Afternoon,2,28.249677,77.711395
+427,Rain,Slippery,Night,2,28.577426,77.268717
+428,Cloudy,Slippery,Night,1,28.633628,77.880125
+429,Clear,Slippery,Evening,3,28.454696,77.488044
+430,Snow,Dry,Morning,4,28.634841,77.697289
+431,Clear,Slippery,Afternoon,4,28.824848,77.494715
+432,Fog,Under Construction,Evening,2,28.566142,77.485338
+433,Fog,Dry,Morning,1,28.62618,77.836702
+434,Clear,Dry,Afternoon,4,28.456518,77.991838
+435,Cloudy,Wet,Afternoon,3,28.158977,77.932726
+436,Fog,Dry,Evening,3,28.082421,77.664509
+437,Rain,Dry,Night,3,28.725988,77.755232
+438,Cloudy,Dry,Morning,1,28.213421,77.077939
+439,Snow,Wet,Night,1,28.008063,77.343574
+440,Clear,Slippery,Afternoon,4,28.070828,77.38307
+441,Clear,Dry,Evening,3,28.880989,77.137129
+442,Rain,Wet,Morning,1,28.610319,77.164117
+443,Fog,Wet,Afternoon,4,28.616076,77.442384
+444,Rain,Dry,Morning,2,28.752446,77.589574
+445,Cloudy,Under Construction,Night,3,28.791077,77.247786
+446,Clear,Wet,Evening,1,28.847892,77.658405
+447,Fog,Wet,Afternoon,4,28.295542,77.054569
+448,Rain,Slippery,Night,1,28.241082,77.638082
+449,Clear,Dry,Evening,3,28.131983,77.860814
+450,Snow,Slippery,Evening,2,28.762726,77.954453
+451,Clear,Dry,Morning,1,28.262185,77.039827
+452,Clear,Slippery,Evening,4,28.423575,77.402277
+453,Snow,Wet,Evening,1,28.309907,77.511305
+454,Rain,Wet,Evening,4,28.586437,77.763224
+455,Clear,Under Construction,Night,2,28.057906,77.086213
+456,Cloudy,Dry,Night,1,28.30929,77.741694
+457,Rain,Dry,Morning,2,28.7015,77.163833
+458,Fog,Under Construction,Afternoon,3,28.126931,77.781124
+459,Fog,Dry,Morning,3,28.807108,77.271981
+460,Clear,Under Construction,Morning,4,28.455198,77.360124
+461,Cloudy,Wet,Evening,2,28.255116,77.102905
+462,Snow,Dry,Afternoon,1,28.044038,77.862928
+463,Rain,Dry,Night,3,28.382979,77.150085
+464,Clear,Slippery,Afternoon,3,28.248263,77.915855
+465,Fog,Under Construction,Morning,3,28.119401,77.673326
+466,Clear,Wet,Afternoon,1,28.954079,77.068926
+467,Cloudy,Under Construction,Evening,3,28.086386,77.456746
+468,Fog,Wet,Evening,3,28.739576,77.242584
+469,Fog,Slippery,Afternoon,2,28.150566,77.932398
+470,Clear,Wet,Evening,1,28.95099,77.001462
+471,Cloudy,Under Construction,Morning,2,28.529814,77.238168
+472,Cloudy,Dry,Afternoon,3,28.093027,77.921274
+473,Snow,Slippery,Evening,4,28.974555,77.084902
+474,Clear,Wet,Night,1,28.591896,77.062283
+475,Rain,Wet,Evening,3,28.850914,77.926042
+476,Cloudy,Under Construction,Evening,4,28.271956,77.074687
+477,Rain,Wet,Morning,2,28.105658,77.449567
+478,Fog,Slippery,Morning,3,28.964635,77.207636
+479,Fog,Slippery,Evening,1,28.090421,77.807597
+480,Fog,Dry,Afternoon,3,28.148324,77.711157
+481,Fog,Slippery,Morning,3,28.260167,77.990677
+482,Clear,Slippery,Night,2,28.094725,77.101907
+483,Rain,Dry,Morning,1,28.830372,77.982567
+484,Rain,Wet,Night,3,28.686285,77.937575
+485,Clear,Under Construction,Morning,1,28.997161,77.19775
+486,Cloudy,Wet,Morning,3,28.122528,77.942281
+487,Clear,Wet,Night,4,28.496126,77.382729
+488,Cloudy,Wet,Evening,2,28.908304,77.274982
+489,Cloudy,Wet,Morning,2,28.647278,77.498892
+490,Snow,Slippery,Morning,1,28.279776,77.137236
+491,Rain,Wet,Morning,4,28.781916,77.359112
+492,Snow,Slippery,Evening,3,28.388381,77.179816
+493,Fog,Wet,Morning,3,28.058591,77.991531
+494,Snow,Under Construction,Afternoon,2,28.100134,77.656864
+495,Fog,Dry,Afternoon,4,28.354805,77.839222
+496,Rain,Wet,Afternoon,3,28.80621,77.697627
+497,Snow,Dry,Evening,2,28.563109,77.188234
+498,Cloudy,Under Construction,Afternoon,4,28.037964,77.056168
+499,Snow,Wet,Morning,4,28.000683,77.917896
+500,Rain,Wet,Evening,2,28.918781,77.844284
+501,Fog,Dry,Morning,2,28.586609,77.917224
+502,Clear,Under Construction,Morning,3,28.704538,77.66214
+503,Snow,Dry,Evening,3,28.322603,77.975861
+504,Cloudy,Slippery,Evening,2,28.707183,77.561977
+505,Snow,Under Construction,Afternoon,2,28.378384,77.733995
+506,Fog,Wet,Afternoon,1,28.948788,77.948698
+507,Cloudy,Dry,Afternoon,3,28.921038,77.967532
+508,Rain,Dry,Night,2,28.331168,77.077807
+509,Fog,Under Construction,Afternoon,1,28.821662,77.670025
+510,Fog,Slippery,Morning,3,28.209684,77.693176
+511,Fog,Under Construction,Morning,1,28.048147,77.43822
+512,Cloudy,Wet,Night,4,28.881771,77.351231
+513,Cloudy,Dry,Night,2,28.162657,77.073709
+514,Clear,Under Construction,Morning,3,28.261128,77.104725
+515,Fog,Wet,Night,2,28.731985,77.547046
+516,Clear,Under Construction,Night,1,28.431323,77.653635
+517,Snow,Slippery,Afternoon,1,28.101258,77.20555
+518,Rain,Slippery,Evening,3,28.297401,77.095916
+519,Cloudy,Slippery,Afternoon,1,28.360829,77.427606
+520,Fog,Slippery,Afternoon,1,28.025736,77.170832
+521,Fog,Dry,Night,1,28.308353,77.397467
+522,Cloudy,Under Construction,Morning,4,28.184881,77.885493
+523,Fog,Wet,Night,1,28.263296,77.465058
+524,Rain,Under Construction,Morning,2,28.752235,77.667468
+525,Clear,Under Construction,Night,2,28.553602,77.840797
+526,Snow,Slippery,Night,2,28.476262,77.078955
+527,Clear,Wet,Morning,4,28.172879,77.984368
+528,Rain,Wet,Afternoon,1,28.423375,77.98828
+529,Cloudy,Wet,Afternoon,3,28.319749,77.727103
+530,Clear,Dry,Night,4,28.552054,77.856624
+531,Snow,Slippery,Morning,4,28.112519,77.149642
+532,Snow,Dry,Morning,1,28.785746,77.867475
+533,Fog,Slippery,Evening,4,28.654788,77.572023
+534,Cloudy,Dry,Afternoon,3,28.402974,77.618244
+535,Cloudy,Dry,Night,3,28.690514,77.049291
+536,Cloudy,Under Construction,Evening,1,28.337866,77.793652
+537,Fog,Under Construction,Night,1,28.972497,77.227957
+538,Fog,Slippery,Evening,3,28.728799,77.604979
+539,Clear,Wet,Night,2,28.913433,77.40717
+540,Cloudy,Under Construction,Morning,2,28.065617,77.709569
+541,Cloudy,Wet,Morning,2,28.192763,77.83293
+542,Clear,Wet,Morning,4,28.050559,77.360375
+543,Rain,Under Construction,Evening,4,28.505126,77.63541
+544,Clear,Dry,Afternoon,3,28.488787,77.446103
+545,Cloudy,Under Construction,Evening,2,28.837654,77.25866
+546,Clear,Under Construction,Morning,4,28.049651,77.853821
+547,Rain,Wet,Afternoon,2,28.269084,77.409507
+548,Clear,Dry,Night,2,28.647372,77.601142
+549,Clear,Wet,Evening,3,28.71274,77.709368
+550,Fog,Slippery,Night,3,28.458998,77.218209
+551,Fog,Slippery,Morning,1,28.511514,77.662355
+552,Fog,Under Construction,Evening,1,28.481738,77.336284
+553,Fog,Under Construction,Evening,3,28.65612,77.952188
+554,Fog,Wet,Afternoon,2,28.899687,77.80543
+555,Snow,Slippery,Evening,2,28.721283,77.655401
+556,Fog,Under Construction,Night,4,28.388275,77.035319
+557,Snow,Wet,Evening,2,28.686318,77.638314
+558,Cloudy,Under Construction,Evening,2,28.840639,77.876495
+559,Rain,Under Construction,Morning,4,28.127944,77.258652
+560,Snow,Wet,Evening,1,28.222254,77.223328
+561,Fog,Slippery,Evening,3,28.260559,77.294051
+562,Clear,Slippery,Morning,1,28.47222,77.194544
+563,Clear,Slippery,Evening,4,28.054062,77.85424
+564,Rain,Wet,Evening,4,28.987192,77.892845
+565,Cloudy,Wet,Evening,2,28.778941,77.487581
+566,Rain,Under Construction,Morning,1,28.452053,77.209382
+567,Rain,Wet,Night,1,28.129406,77.433711
+568,Cloudy,Slippery,Night,4,28.383316,77.037725
+569,Rain,Under Construction,Morning,3,28.756848,77.531034
+570,Clear,Dry,Afternoon,2,28.693525,77.34435
+571,Rain,Dry,Night,3,28.16702,77.823844
+572,Fog,Under Construction,Night,3,28.433665,77.68678
+573,Rain,Under Construction,Night,3,28.750116,77.164884
+574,Cloudy,Dry,Afternoon,2,28.727169,77.131206
+575,Clear,Wet,Morning,3,28.71111,77.792127
+576,Cloudy,Under Construction,Morning,1,28.66197,77.653568
+577,Clear,Dry,Morning,4,28.444314,77.123595
+578,Fog,Slippery,Afternoon,2,28.695192,77.630311
+579,Fog,Slippery,Morning,3,28.622798,77.700726
+580,Cloudy,Dry,Morning,3,28.114013,77.106264
+581,Rain,Wet,Evening,2,28.357922,77.409756
+582,Rain,Dry,Night,2,28.688204,77.480664
+583,Rain,Dry,Morning,1,28.90688,77.835232
+584,Cloudy,Wet,Morning,1,28.723564,77.10129
+585,Fog,Wet,Night,3,28.264125,77.05008
+586,Rain,Dry,Evening,3,28.801596,77.312707
+587,Clear,Dry,Morning,1,28.851999,77.663355
+588,Rain,Under Construction,Evening,4,28.955089,77.268309
+589,Clear,Under Construction,Evening,2,28.113832,77.40025
+590,Cloudy,Under Construction,Night,4,28.799899,77.648846
+591,Rain,Dry,Afternoon,1,28.981569,77.84435
+592,Clear,Slippery,Night,4,28.181261,77.379751
+593,Fog,Dry,Afternoon,4,28.920398,77.112937
+594,Cloudy,Slippery,Morning,1,28.261613,77.314238
+595,Snow,Wet,Evening,1,28.432848,77.726652
+596,Cloudy,Under Construction,Night,2,28.839033,77.558344
+597,Snow,Dry,Morning,2,28.505568,77.469289
+598,Cloudy,Wet,Morning,4,28.320634,77.330895
+599,Fog,Dry,Afternoon,4,28.403277,77.235
+600,Cloudy,Slippery,Night,1,28.856589,77.447068
+601,Clear,Slippery,Morning,1,28.40344,77.035832
+602,Snow,Dry,Morning,3,28.890111,77.562333
+603,Cloudy,Under Construction,Evening,1,28.816589,77.844317
+604,Fog,Slippery,Evening,4,28.114023,77.75932
+605,Rain,Dry,Evening,3,28.829884,77.964434
+606,Fog,Under Construction,Morning,1,28.896877,77.492422
+607,Cloudy,Dry,Evening,2,28.187543,77.930216
+608,Cloudy,Wet,Night,2,28.716788,77.107766
+609,Cloudy,Dry,Morning,4,28.457388,77.589316
+610,Snow,Wet,Night,1,28.530364,77.048572
+611,Cloudy,Slippery,Afternoon,2,28.730495,77.128382
+612,Cloudy,Under Construction,Night,4,28.979501,77.91591
+613,Rain,Under Construction,Night,3,28.970492,77.452846
+614,Rain,Wet,Night,3,28.843074,77.547806
+615,Fog,Wet,Afternoon,2,28.624168,77.290579
+616,Fog,Wet,Afternoon,3,28.710353,77.760775
+617,Snow,Slippery,Night,3,28.877477,77.422386
+618,Clear,Dry,Morning,4,28.145327,77.670254
+619,Rain,Under Construction,Afternoon,3,28.68339,77.146428
+620,Clear,Under Construction,Afternoon,1,28.358682,77.452595
+621,Snow,Wet,Night,2,28.510922,77.796834
+622,Fog,Dry,Night,4,28.416566,77.788112
+623,Fog,Dry,Morning,3,28.203087,77.86885
+624,Cloudy,Wet,Evening,2,28.776147,77.96429
+625,Fog,Slippery,Afternoon,1,28.186977,77.173795
+626,Snow,Dry,Night,1,28.428508,77.556599
+627,Rain,Wet,Evening,1,28.330563,77.709689
+628,Rain,Dry,Afternoon,3,28.59688,77.773661
+629,Snow,Under Construction,Night,3,28.072881,77.707682
+630,Snow,Wet,Afternoon,1,28.786258,77.15937
+631,Snow,Slippery,Morning,3,28.221198,77.213354
+632,Fog,Under Construction,Evening,3,28.218445,77.752656
+633,Snow,Slippery,Morning,1,28.668938,77.445667
+634,Snow,Wet,Morning,3,28.381373,77.796207
+635,Clear,Slippery,Evening,3,28.024706,77.516868
+636,Fog,Slippery,Night,1,28.296434,77.651528
+637,Fog,Dry,Morning,2,28.971629,77.773319
+638,Snow,Dry,Morning,2,28.670335,77.773582
+639,Cloudy,Dry,Afternoon,4,28.646561,77.939751
+640,Rain,Dry,Night,3,28.037886,77.073248
+641,Rain,Under Construction,Morning,2,28.910987,77.407633
+642,Cloudy,Slippery,Night,3,28.016891,77.673299
+643,Snow,Dry,Morning,1,28.700882,77.072589
+644,Snow,Dry,Evening,3,28.606566,77.281517
+645,Cloudy,Slippery,Night,1,28.473988,77.533468
+646,Rain,Slippery,Evening,2,28.298057,77.886978
+647,Fog,Dry,Afternoon,1,28.041773,77.572719
+648,Cloudy,Dry,Evening,2,28.748297,77.903546
+649,Fog,Wet,Night,2,28.160954,77.220788
+650,Fog,Wet,Morning,2,28.670978,77.567293
+651,Clear,Slippery,Morning,3,28.671685,77.250688
+652,Rain,Slippery,Evening,3,28.128215,77.655473
+653,Clear,Under Construction,Morning,2,28.317786,77.450646
+654,Snow,Under Construction,Afternoon,3,28.8077,77.958659
+655,Rain,Dry,Evening,2,28.78566,77.712199
+656,Cloudy,Under Construction,Evening,2,28.67958,77.331563
+657,Cloudy,Slippery,Night,3,28.774767,77.486971
+658,Clear,Wet,Morning,3,28.858714,77.140002
+659,Snow,Wet,Evening,1,28.727425,77.892105
+660,Snow,Dry,Night,2,28.906304,77.551594
+661,Snow,Slippery,Afternoon,3,28.392498,77.891438
+662,Snow,Under Construction,Afternoon,4,28.501123,77.090554
+663,Fog,Dry,Afternoon,2,28.757206,77.140371
+664,Rain,Wet,Afternoon,4,28.939175,77.04042
+665,Cloudy,Wet,Morning,3,28.369435,77.042808
+666,Rain,Under Construction,Night,4,28.917902,77.881552
+667,Clear,Under Construction,Morning,3,28.834872,77.263316
+668,Snow,Wet,Night,4,28.365297,77.653337
+669,Clear,Under Construction,Night,2,28.516372,77.352898
+670,Fog,Slippery,Night,1,28.501837,77.138968
+671,Rain,Wet,Morning,3,28.211517,77.186906
+672,Fog,Dry,Afternoon,4,28.811173,77.720256
+673,Cloudy,Slippery,Night,2,28.590791,77.647259
+674,Cloudy,Dry,Afternoon,1,28.127885,77.592348
+675,Rain,Dry,Afternoon,1,28.166341,77.922447
+676,Snow,Slippery,Morning,3,28.947254,77.216593
+677,Snow,Slippery,Night,2,28.219364,77.410767
+678,Rain,Wet,Evening,2,28.724187,77.342671
+679,Cloudy,Dry,Afternoon,4,28.385462,77.10857
+680,Rain,Slippery,Afternoon,1,28.177422,77.901608
+681,Snow,Dry,Morning,1,28.482241,77.130329
+682,Snow,Dry,Night,4,28.370377,77.043438
+683,Snow,Slippery,Afternoon,4,28.789556,77.381236
+684,Snow,Dry,Night,2,28.254518,77.765859
+685,Clear,Under Construction,Night,3,28.189021,77.709149
+686,Clear,Dry,Morning,4,28.654546,77.687767
+687,Fog,Slippery,Evening,1,28.154779,77.651576
+688,Fog,Under Construction,Night,3,28.611881,77.991799
+689,Cloudy,Wet,Night,4,28.17872,77.559094
+690,Cloudy,Under Construction,Evening,3,28.774194,77.39813
+691,Rain,Dry,Afternoon,4,28.783109,77.949245
+692,Clear,Wet,Night,3,28.800854,77.614025
+693,Clear,Wet,Night,1,28.804369,77.823255
+694,Cloudy,Slippery,Morning,1,28.263092,77.370835
+695,Snow,Dry,Night,4,28.613966,77.521006
+696,Snow,Dry,Afternoon,4,28.438972,77.201707
+697,Snow,Under Construction,Afternoon,1,28.783959,77.510548
+698,Rain,Wet,Morning,3,28.239257,77.000287
+699,Rain,Dry,Evening,4,28.353128,77.395143
+700,Snow,Wet,Morning,1,28.919177,77.549593
+701,Snow,Under Construction,Evening,3,28.226296,77.963057
+702,Cloudy,Slippery,Morning,3,28.175035,77.506238
+703,Snow,Dry,Evening,3,28.947015,77.802942
+704,Fog,Under Construction,Night,4,28.563169,77.769967
+705,Fog,Slippery,Night,1,28.48197,77.25782
+706,Cloudy,Wet,Afternoon,3,28.412426,77.353096
+707,Snow,Dry,Evening,2,28.28729,77.398931
+708,Fog,Dry,Afternoon,4,28.313873,77.218566
+709,Snow,Under Construction,Afternoon,2,28.498999,77.199667
+710,Rain,Under Construction,Afternoon,2,28.202767,77.249695
+711,Snow,Under Construction,Afternoon,1,28.119878,77.078488
+712,Cloudy,Dry,Morning,4,28.371197,77.315417
+713,Snow,Under Construction,Night,2,28.984395,77.916007
+714,Fog,Slippery,Afternoon,2,28.054148,77.79927
+715,Cloudy,Dry,Evening,4,28.8604,77.775904
+716,Cloudy,Dry,Night,3,28.689211,77.01182
+717,Rain,Slippery,Morning,3,28.361602,77.861842
+718,Rain,Under Construction,Afternoon,3,28.471345,77.613084
+719,Fog,Wet,Night,4,28.210532,77.700713
+720,Fog,Under Construction,Night,3,28.450729,77.57141
+721,Snow,Wet,Morning,3,28.804088,77.55534
+722,Cloudy,Wet,Afternoon,2,28.472987,77.009742
+723,Cloudy,Slippery,Afternoon,3,28.785333,77.300034
+724,Snow,Dry,Night,1,28.690543,77.060036
+725,Fog,Slippery,Morning,4,28.744593,77.259769
+726,Fog,Under Construction,Evening,1,28.411761,77.35109
+727,Snow,Wet,Afternoon,3,28.355109,77.673193
+728,Cloudy,Slippery,Morning,4,28.613664,77.463752
+729,Rain,Wet,Evening,4,28.631273,77.571638
+730,Clear,Dry,Afternoon,3,28.228218,77.316878
+731,Fog,Under Construction,Night,3,28.887692,77.780974
+732,Fog,Slippery,Night,2,28.183886,77.023101
+733,Rain,Under Construction,Morning,2,28.16691,77.103009
+734,Clear,Slippery,Morning,1,28.770934,77.523983
+735,Clear,Dry,Evening,2,28.084311,77.93159
+736,Cloudy,Under Construction,Afternoon,2,28.737593,77.44316
+737,Rain,Wet,Afternoon,1,28.035155,77.356841
+738,Fog,Slippery,Night,3,28.548545,77.135115
+739,Snow,Wet,Night,4,28.52346,77.639528
+740,Fog,Under Construction,Night,2,28.804708,77.44186
+741,Fog,Slippery,Evening,2,28.303573,77.000092
+742,Rain,Under Construction,Evening,4,28.535099,77.68777
+743,Cloudy,Slippery,Evening,1,28.765869,77.797965
+744,Snow,Wet,Morning,3,28.188571,77.882162
+745,Cloudy,Slippery,Afternoon,2,28.714938,77.645991
+746,Cloudy,Wet,Evening,1,28.422239,77.239562
+747,Snow,Under Construction,Evening,3,28.412904,77.853482
+748,Rain,Wet,Evening,1,28.636893,77.617729
+749,Fog,Slippery,Afternoon,3,28.019395,77.049632
+750,Snow,Dry,Afternoon,1,28.282115,77.125039
+751,Cloudy,Dry,Afternoon,1,28.150684,77.49358
+752,Fog,Slippery,Evening,4,28.997963,77.463684
+753,Clear,Under Construction,Morning,2,28.056038,77.775653
+754,Clear,Slippery,Afternoon,2,28.895699,77.250079
+755,Cloudy,Dry,Morning,2,28.384798,77.974972
+756,Rain,Dry,Afternoon,4,28.735323,77.09396
+757,Rain,Slippery,Night,3,28.936215,77.158611
+758,Clear,Dry,Evening,4,28.63852,77.198724
+759,Clear,Wet,Morning,2,28.632909,77.324513
+760,Rain,Under Construction,Morning,4,28.789144,77.00893
+761,Clear,Slippery,Afternoon,3,28.770797,77.248722
+762,Cloudy,Dry,Evening,1,28.059775,77.644575
+763,Snow,Dry,Afternoon,4,28.232675,77.981676
+764,Fog,Slippery,Afternoon,1,28.68925,77.358167
+765,Rain,Under Construction,Morning,4,28.706626,77.559025
+766,Snow,Slippery,Afternoon,2,28.543621,77.323681
+767,Cloudy,Under Construction,Afternoon,1,28.531137,77.449384
+768,Fog,Under Construction,Night,1,28.775918,77.505958
+769,Rain,Dry,Evening,2,28.320694,77.063342
+770,Snow,Slippery,Afternoon,4,28.765734,77.154132
+771,Fog,Under Construction,Night,3,28.110464,77.523201
+772,Clear,Dry,Afternoon,2,28.873493,77.202079
+773,Cloudy,Wet,Morning,1,28.571012,77.8363
+774,Cloudy,Under Construction,Morning,3,28.220723,77.717845
+775,Clear,Wet,Night,1,28.468059,77.638917
+776,Fog,Slippery,Evening,1,28.823643,77.265816
+777,Clear,Dry,Evening,1,28.944603,77.960587
+778,Clear,Dry,Afternoon,4,28.18946,77.526192
+779,Rain,Wet,Night,1,28.766283,77.576564
+780,Cloudy,Slippery,Morning,2,28.792462,77.549965
+781,Snow,Under Construction,Afternoon,4,28.93352,77.902485
+782,Snow,Under Construction,Evening,4,28.764184,77.430588
+783,Fog,Wet,Afternoon,4,28.765708,77.926147
+784,Fog,Under Construction,Night,4,28.959824,77.000196
+785,Clear,Under Construction,Morning,2,28.993412,77.301842
+786,Fog,Wet,Afternoon,3,28.021701,77.82194
+787,Fog,Wet,Morning,1,28.46037,77.156107
+788,Fog,Under Construction,Afternoon,2,28.256244,77.300302
+789,Snow,Slippery,Afternoon,1,28.723581,77.792904
+790,Rain,Slippery,Morning,3,28.037372,77.808341
+791,Cloudy,Dry,Morning,3,28.34793,77.817142
+792,Cloudy,Dry,Afternoon,1,28.633887,77.632194
+793,Clear,Under Construction,Morning,3,28.53993,77.14958
+794,Snow,Wet,Afternoon,1,28.673635,77.997367
+795,Cloudy,Dry,Afternoon,4,28.289783,77.394322
+796,Rain,Under Construction,Morning,4,28.571441,77.049311
+797,Cloudy,Under Construction,Morning,4,28.501823,77.773825
+798,Rain,Wet,Night,2,28.487861,77.652248
+799,Rain,Wet,Afternoon,1,28.266257,77.430066
+800,Snow,Dry,Morning,4,28.423541,77.348308
+801,Fog,Under Construction,Morning,3,28.169255,77.349716
+802,Cloudy,Wet,Night,1,28.924213,77.23349
+803,Fog,Wet,Morning,1,28.739582,77.243048
+804,Snow,Wet,Evening,1,28.343271,77.804281
+805,Fog,Slippery,Night,1,28.331877,77.740013
+806,Rain,Wet,Evening,4,28.623042,77.992302
+807,Clear,Slippery,Morning,3,28.17032,77.284014
+808,Snow,Under Construction,Morning,4,28.654758,77.008334
+809,Cloudy,Under Construction,Evening,1,28.019078,77.86741
+810,Cloudy,Wet,Night,1,28.903872,77.484662
+811,Snow,Dry,Afternoon,2,28.500651,77.457986
+812,Clear,Dry,Afternoon,3,28.33357,77.3934
+813,Rain,Dry,Evening,3,28.355378,77.302326
+814,Snow,Under Construction,Morning,3,28.878677,77.890402
+815,Clear,Under Construction,Afternoon,2,28.341786,77.392847
+816,Rain,Dry,Night,2,28.417333,77.572899
+817,Cloudy,Under Construction,Evening,4,28.542234,77.206757
+818,Rain,Wet,Afternoon,3,28.688532,77.898643
+819,Rain,Slippery,Afternoon,2,28.317496,77.55734
+820,Clear,Wet,Evening,2,28.72708,77.765435
+821,Cloudy,Slippery,Evening,4,28.74561,77.821699
+822,Fog,Wet,Afternoon,1,28.131546,77.026198
+823,Snow,Under Construction,Afternoon,2,28.230912,77.026084
+824,Clear,Slippery,Afternoon,4,28.712019,77.373959
+825,Cloudy,Slippery,Night,2,28.163786,77.226273
+826,Cloudy,Dry,Evening,4,28.222554,77.671339
+827,Rain,Wet,Morning,2,28.927103,77.985628
+828,Snow,Slippery,Evening,4,28.887587,77.427556
+829,Clear,Slippery,Evening,4,28.611505,77.742468
+830,Snow,Dry,Morning,4,28.4569,77.877767
+831,Rain,Slippery,Morning,4,28.516127,77.630649
+832,Clear,Wet,Evening,4,28.39804,77.304554
+833,Fog,Slippery,Afternoon,4,28.29442,77.919033
+834,Snow,Wet,Night,4,28.090441,77.500658
+835,Rain,Wet,Night,4,28.323461,77.024912
+836,Cloudy,Wet,Night,1,28.250082,77.691717
+837,Rain,Dry,Morning,1,28.706227,77.634072
+838,Clear,Slippery,Afternoon,4,28.550346,77.043906
+839,Rain,Under Construction,Afternoon,2,28.868819,77.178867
+840,Clear,Slippery,Evening,3,28.730162,77.960966
+841,Fog,Wet,Morning,2,28.960434,77.003533
+842,Fog,Dry,Night,4,28.855411,77.543501
+843,Clear,Slippery,Afternoon,2,28.588862,77.475712
+844,Cloudy,Slippery,Morning,1,28.244713,77.547342
+845,Snow,Wet,Morning,2,28.148256,77.653277
+846,Clear,Wet,Morning,3,28.331111,77.087703
+847,Clear,Slippery,Afternoon,2,28.67209,77.61109
+848,Snow,Wet,Night,3,28.93148,77.093126
+849,Fog,Under Construction,Evening,4,28.820265,77.758442
+850,Snow,Dry,Evening,4,28.134546,77.694619
+851,Fog,Under Construction,Night,2,28.695829,77.612054
+852,Clear,Dry,Night,3,28.427054,77.847798
+853,Fog,Under Construction,Afternoon,4,28.519706,77.631858
+854,Cloudy,Wet,Afternoon,3,28.979258,77.001581
+855,Clear,Slippery,Morning,2,28.799564,77.998987
+856,Cloudy,Dry,Evening,3,28.560416,77.637504
+857,Clear,Wet,Evening,3,28.790196,77.307773
+858,Snow,Under Construction,Morning,1,28.685836,77.341362
+859,Snow,Dry,Afternoon,2,28.330515,77.337937
+860,Cloudy,Slippery,Morning,2,28.481496,77.6272
+861,Snow,Under Construction,Night,4,28.92779,77.056022
+862,Snow,Under Construction,Evening,1,28.208262,77.685493
+863,Fog,Dry,Afternoon,3,28.840739,77.339152
+864,Cloudy,Wet,Night,2,28.595192,77.864594
+865,Fog,Under Construction,Morning,3,28.41387,77.497054
+866,Rain,Under Construction,Night,3,28.21614,77.302318
+867,Clear,Under Construction,Morning,2,28.913354,77.443774
+868,Clear,Slippery,Afternoon,2,28.340116,77.483472
+869,Snow,Under Construction,Evening,2,28.769481,77.098252
+870,Snow,Wet,Afternoon,1,28.459368,77.713677
+871,Snow,Dry,Morning,3,28.932337,77.687052
+872,Snow,Dry,Evening,4,28.889186,77.103103
+873,Fog,Dry,Evening,2,28.32088,77.192546
+874,Fog,Under Construction,Night,1,28.272654,77.157496
+875,Clear,Dry,Morning,2,28.542529,77.549366
+876,Fog,Wet,Evening,2,28.171275,77.311378
+877,Fog,Slippery,Morning,2,28.028993,77.903292
+878,Clear,Dry,Night,1,28.08612,77.391917
+879,Snow,Slippery,Evening,3,28.332332,77.198147
+880,Snow,Dry,Night,2,28.092916,77.80235
+881,Cloudy,Dry,Night,3,28.684478,77.710216
+882,Cloudy,Slippery,Afternoon,2,28.143722,77.895701
+883,Fog,Under Construction,Night,2,28.699615,77.665181
+884,Fog,Slippery,Night,1,28.065365,77.112887
+885,Cloudy,Slippery,Afternoon,3,28.767942,77.60444
+886,Rain,Dry,Night,1,28.32587,77.649451
+887,Fog,Slippery,Night,4,28.238575,77.243691
+888,Rain,Slippery,Night,1,28.340714,77.813916
+889,Snow,Slippery,Night,3,28.544527,77.236154
+890,Clear,Slippery,Morning,4,28.325378,77.097654
+891,Cloudy,Wet,Evening,4,28.069608,77.108745
+892,Snow,Slippery,Evening,4,28.644989,77.061482
+893,Rain,Wet,Morning,2,28.660881,77.452974
+894,Fog,Slippery,Night,2,28.205662,77.877425
+895,Fog,Under Construction,Night,3,28.990289,77.582727
+896,Snow,Slippery,Afternoon,3,28.062411,77.901076
+897,Clear,Dry,Evening,1,28.861248,77.86568
+898,Rain,Slippery,Night,3,28.711774,77.406033
+899,Cloudy,Wet,Afternoon,4,28.139069,77.555422
+900,Fog,Slippery,Afternoon,3,28.997456,77.670066
+901,Rain,Dry,Morning,1,28.143996,77.884889
+902,Cloudy,Wet,Morning,2,28.642243,77.415855
+903,Cloudy,Slippery,Afternoon,4,28.509415,77.55205
+904,Cloudy,Slippery,Evening,2,28.185791,77.604573
+905,Snow,Slippery,Afternoon,3,28.410838,77.546166
+906,Fog,Dry,Morning,4,28.704883,77.113164
+907,Cloudy,Dry,Afternoon,3,28.464936,77.078235
+908,Snow,Dry,Afternoon,4,28.630663,77.663737
+909,Clear,Under Construction,Morning,3,28.535033,77.010783
+910,Cloudy,Slippery,Evening,4,28.352915,77.977761
+911,Fog,Under Construction,Afternoon,1,28.695051,77.597637
+912,Fog,Under Construction,Morning,4,28.578141,77.57286
+913,Fog,Dry,Evening,4,28.08251,77.505596
+914,Fog,Under Construction,Afternoon,3,28.275217,77.256956
+915,Clear,Wet,Afternoon,4,28.369767,77.175399
+916,Rain,Slippery,Afternoon,1,28.342848,77.084401
+917,Rain,Wet,Night,4,28.770368,77.237947
+918,Cloudy,Wet,Afternoon,3,28.054326,77.264395
+919,Clear,Dry,Afternoon,4,28.398745,77.301367
+920,Snow,Wet,Night,4,28.47459,77.14515
+921,Cloudy,Dry,Evening,4,28.382004,77.315689
+922,Snow,Dry,Morning,3,28.956184,77.431786
+923,Fog,Under Construction,Evening,3,28.802316,77.255344
+924,Snow,Slippery,Night,2,28.734313,77.588724
+925,Rain,Under Construction,Afternoon,3,28.547613,77.672802
+926,Clear,Dry,Night,1,28.525264,77.6855
+927,Fog,Wet,Evening,3,28.19308,77.0237
+928,Clear,Dry,Afternoon,1,28.708075,77.119977
+929,Snow,Wet,Night,2,28.896002,77.695654
+930,Fog,Under Construction,Night,1,28.638781,77.922695
+931,Fog,Slippery,Evening,3,28.161966,77.073997
+932,Clear,Slippery,Night,3,28.995959,77.258239
+933,Fog,Wet,Night,1,28.491722,77.928586
+934,Snow,Slippery,Afternoon,4,28.10843,77.540632
+935,Cloudy,Wet,Morning,4,28.7154,77.103287
+936,Clear,Dry,Evening,4,28.018765,77.497701
+937,Clear,Dry,Night,3,28.151607,77.329831
+938,Cloudy,Dry,Night,4,28.436058,77.844049
+939,Clear,Wet,Morning,4,28.954155,77.817977
+940,Cloudy,Dry,Evening,3,28.681836,77.400615
+941,Clear,Under Construction,Evening,1,28.841182,77.760453
+942,Fog,Wet,Afternoon,1,28.967513,77.660734
+943,Fog,Slippery,Morning,3,28.486504,77.885214
+944,Cloudy,Wet,Afternoon,1,28.193093,77.719739
+945,Snow,Wet,Night,4,28.062993,77.540552
+946,Fog,Slippery,Night,1,28.037043,77.056054
+947,Clear,Slippery,Morning,2,28.807104,77.667316
+948,Cloudy,Wet,Afternoon,1,28.036878,77.14159
+949,Clear,Slippery,Morning,2,28.701297,77.130538
+950,Rain,Dry,Evening,1,28.456185,77.170689
+951,Snow,Dry,Morning,1,28.497143,77.799175
+952,Rain,Dry,Afternoon,4,28.337343,77.835896
+953,Cloudy,Under Construction,Morning,2,28.32159,77.964692
+954,Rain,Dry,Afternoon,3,28.063222,77.273893
+955,Cloudy,Wet,Evening,2,28.438661,77.925676
+956,Clear,Wet,Morning,4,28.777662,77.01563
+957,Cloudy,Dry,Morning,1,28.179413,77.089141
+958,Snow,Under Construction,Night,4,28.692358,77.20616
+959,Fog,Slippery,Night,2,28.93809,77.610538
+960,Clear,Wet,Night,1,28.627192,77.782583
+961,Fog,Slippery,Morning,2,28.191903,77.986604
+962,Clear,Under Construction,Afternoon,4,28.770331,77.659327
+963,Fog,Dry,Afternoon,1,28.796613,77.685244
+964,Cloudy,Slippery,Afternoon,2,28.670143,77.043116
+965,Fog,Under Construction,Afternoon,4,28.251382,77.616819
+966,Cloudy,Dry,Morning,1,28.924861,77.175888
+967,Clear,Slippery,Morning,1,28.895079,77.721403
+968,Snow,Under Construction,Night,2,28.747087,77.898373
+969,Rain,Dry,Evening,2,28.098064,77.737748
+970,Rain,Slippery,Afternoon,1,28.47099,77.484408
+971,Cloudy,Wet,Afternoon,4,28.178061,77.373485
+972,Cloudy,Wet,Evening,3,28.202211,77.127212
+973,Snow,Dry,Evening,2,28.111109,77.465534
+974,Cloudy,Wet,Evening,2,28.886409,77.603636
+975,Snow,Wet,Afternoon,1,28.411696,77.521769
+976,Rain,Slippery,Night,3,28.014504,77.42811
+977,Rain,Wet,Evening,4,28.579467,77.891823
+978,Snow,Wet,Morning,4,28.980184,77.040059
+979,Cloudy,Dry,Night,4,28.479269,77.798018
+980,Clear,Slippery,Night,2,28.083092,77.753079
+981,Cloudy,Wet,Afternoon,3,28.29579,77.64764
+982,Clear,Dry,Night,3,28.161803,77.459283
+983,Snow,Dry,Night,4,28.771835,77.874199
+984,Cloudy,Wet,Evening,4,28.703902,77.001364
+985,Clear,Slippery,Evening,1,28.29659,77.752888
+986,Snow,Wet,Morning,3,28.735761,77.054812
+987,Fog,Dry,Morning,4,28.365591,77.619133
+988,Fog,Under Construction,Afternoon,1,28.560758,77.773576
+989,Rain,Under Construction,Afternoon,1,28.649038,77.73738
+990,Snow,Wet,Afternoon,3,28.352712,77.267358
+991,Cloudy,Under Construction,Morning,1,28.372814,77.452411
+992,Snow,Dry,Night,3,28.451978,77.368146
+993,Clear,Wet,Night,1,28.08017,77.897946
+994,Fog,Dry,Morning,2,28.275943,77.697082
+995,Cloudy,Wet,Afternoon,1,28.293169,77.969575
+996,Snow,Wet,Night,3,28.42013,77.737709
+997,Clear,Under Construction,Afternoon,1,28.022037,77.801989
+998,Snow,Under Construction,Night,3,28.655761,77.786824
+999,Cloudy,Slippery,Night,3,28.567252,77.898282
+1000,Fog,Wet,Evening,2,28.484243,77.970724
